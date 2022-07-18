@@ -19,7 +19,8 @@
 ![image](visual-studio-create-branch.png)
 - Ensure the branch is checked out
 ![image](visual-studio-ensure-branch-checked-out.png)
-
+- Cherry pick the commit "Bug fix 2"
+![image](vs-cherry-pick.gif)
 
 ### Source Tree
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
