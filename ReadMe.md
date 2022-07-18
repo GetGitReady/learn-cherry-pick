@@ -16,7 +16,7 @@
 - Open the repo in Visual Studio
 ![image](vs-open-folder.png)
 - Create a new feature branch based on main named `bug-fix`
-![image](visual-studio-create-branch.png)
+![image](visual-studio-create-branch.gif)
 - Ensure the branch is checked out
 ![image](visual-studio-ensure-branch-checked-out.png)
 - Cherry pick the commit "Bug fix 2"
