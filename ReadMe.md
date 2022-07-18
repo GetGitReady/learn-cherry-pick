@@ -19,6 +19,11 @@
 - Open the repo in Source Tree
 ![image](source-tree-open.png)
 - Create a new feature branch based on main named `bug-fix`
+![image](source-tree-create-branch.gif)
+- Ensure the branch `bug-fix` is checkedout
+![image](source-tree-ensure-branch.png)
+- Cherry pick the commit "Bug fix 2"
+![image](source-tree-cherry-pick.png)
 
 ### Command Prompt
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
