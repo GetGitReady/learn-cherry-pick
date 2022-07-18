@@ -15,11 +15,14 @@
 
 
 ### Source Tree
-
+- Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
+- Open the repo in Source Tree
+![image](source-tree-open.png)
+- Create a new feature branch based on main named `bug-fix`
 
 ### Command Prompt
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
-- Check out the release branch by the command `git checkout -b  release1 origin\release1`
-- Run the command `git log --pretty=oneline` to see all the commits in the branch. Copy the commit sha of 
+- Check out the release branch by the command `git checkout -b  release1 origin/release1`
+- Run the command `git log --pretty=oneline` to see all the commits in the branch. Copy the commit sha of "Bug Fix 2"
 - Create a new branch based on main by the command `git checkout -b bug-fix main` 
 - Run the command `git cherry-pick "copied commit sha"` to cherry pick
