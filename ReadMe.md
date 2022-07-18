@@ -19,5 +19,7 @@
 
 ### Command Prompt
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
-- Create a new branch based on main by the command `git checkout -b bug-fix main`
-- 
+- Check out the release branch by the command `git checkout -b  release1 origin\release1`
+- Run the command `git log --pretty=oneline` to see all the commits in the branch. Copy the commit sha of 
+- Create a new branch based on main by the command `git checkout -b bug-fix main` 
+- Run the command `git cherry-pick "copied commit sha"` to cherry pick
