@@ -18,3 +18,6 @@
 
 
 ### Command Prompt
+- Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
+- Create a new branch based on main by the command `git checkout -b bug-fix main`
+- 
