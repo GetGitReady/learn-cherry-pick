@@ -12,6 +12,13 @@
 ## How to cherry pick
 
 ### Visual studio
+- Clone the repo using the command `git clone https://github.com/GetGitReady/learn-cherry-pick.git`
+- Open the repo in Visual Studio
+![image](vs-open-folder.png)
+- Create a new feature branch based on main named `bug-fix`
+![image](visual-studio-create-branch.png)
+- Ensure the branch is checked out
+![image](visual-studio-ensure-branch-checked-out.png)
 
 
 ### Source Tree
